@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Restaurant</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" type="image/png" href="../static/images/favi.png"/>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC:400,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/mainres.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/util.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/animate/animate.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/select2/select2.min.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='vendor/perfect-scrollbar/perfect-scrollbar.css') }}" />
+	
+	
+	
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/open-iconic-bootstrap.min.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/animate.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/owl.carousel.min.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/owl.theme.default.min.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/magnific-popup.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/aos.css') }}" />
+	
+	
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/ionicons.min.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/bootstrap-datepicker.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/jquery.timepicker.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/flaticon.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/icomoon.css') }}" />
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='cssfood/style.css') }}" />
+  </head>
+ <body class="goto-here">
+		<div class="py-1 bg-primary">
+    	<div class="container">
+    		<div class="row no-gutters d-flex align-items-start align-items-center px-md-0">
+	    		<div class="col-lg-12 d-block">
+		    		<div class="row d-flex">
+		    			<div class="col-md pr-4 d-flex topper align-items-center">
+					    	<div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
+						    <span class="text"> 9228687</span>
+					    </div>
+					    <div class="col-md pr-4 d-flex topper align-items-center">
+					    	<div class="icon mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+						    <span class="text">gaurav.sardhana@iu-study.org</span>
+					    </div>
+					    <div class="col-md-5 pr-4 d-flex topper align-items-center text-lg-right">
+						    <span class="text">Where Taste meets you...</span>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+		  </div>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" href="index.html">Where-To-Taste</a>
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto">
+	          <li class="nav-item"><a href="http://localhost:5000/index" class="nav-link">Home</a></li>
+	       
+
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+	
+	
+	
+	<section class="ftco-section">
+	
+				<div class="row justify-content-center mb-3 pb-3">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          	<span class="subheading">CITY</span>
+            <h2 class="mb-4">Recommendations</h2>
+			 <span class="mr-2"><a href='#'> Know your happy place to visit next!</a></span>
+       
+          </div>
+        </div>   		
+    	<div class="row justify-content-center mb-3 pb-3">
+	<div class="cart-wrap ftco-animate">
+			<div class="cart-total mb-3 center">
+				<form  action="http://localhost:5000/search" class="info" method="Post">
+		  <div class="form-group">
+			 <input name='research' type="text" class="form-control text-left px-3" placeholder="Enter Restaurant name">
+			 <input class="btn btn-black py-3 px-5" type = "submit" value = "Search Restaurant" /></p>
+		  </div>
+		  
+		  {% if serror %}
+			<div class="alert">
+			<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+			<strong> {{ serror }}</strong> 
+			</div>
+		{% endif %}
+		</form>
+			</div>
+
+		</div>
+		</div>
+    	
+    	<div class="container">
+    		<div class="row justify-content-center">
+    			
+    			
+    			
+    			<div class="col-lg-4 mt-5 cart-wrap ftco-animate">
+    				<div class="cart-total mb-3">
+    					<h3 >Get Recommendation</h3>
+    					<p>Know Best places of your city...</p>
+  						<form  action="http://localhost:5000/topres" class="info" method="Post">
+	              <div class="form-group">
+					<label for=""><h3 class='neela'>No. of Recommendations</h3></label>
+					 <input name='toprec' type="number" class="form-control text-left px-3" placeholder="Enter No.">
+					 <input class="btn btn-black py-3 px-5" type = "submit" value = "Top Restaurants" /></p>
+	              </div>
+				  
+				    {% if khaali %}
+  					<div class="alert">
+  					<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+        			<strong> {{khaali}}</strong> 
+        			</div>
+      			{% endif %}
+	            </form>
+    				</div>
+    				
+    			</div>
+					
+				<div class="col-md-6 col-lg-3 ftco-animate  ">
+    				<div class="product">
+    					<a href="#" class="img-prod"><img class="img-fluid" src="../static/images/{{city}}.png" alt="Colorlib Template">
+	    					<div class="overlay"></div>
+	    				</a>
+    					<div class="text py-3 pb-4 px-3 text-center">
+						
+    						<h3><a href="#">{{city}}</a></h3>
+    						
+    						
+    						</div>
+    					</div>
+    				</div>
+					
+					
+					
+    			<div class="col-lg-4 mt-5 cart-wrap ftco-animate">
+    				<div class="cart-total mb-3 center">
+    					<h3>Get Recommendation</h3>
+    					<p>Get restaurants with similar cuisines...</p>
+  						<form  action="http://localhost:5000/matchres" class="info" method="Post">
+	              <div class="form-group">
+					<label for=""><h3 class='laal'>Restaurant Name</h3></label>
+					 <input name='resname' type="text" class="form-control text-left px-3" placeholder="Enter name">
+					 <input class="btn btn-black py-3 px-5" type = "submit" value = "Similar Restaurants" /></p>
+	              </div>
+				  
+				  {% if error %}
+  					<div class="alert">
+  					<span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+        			<strong> {{ error }}</strong> 
+        			</div>
+      			{% endif %}
+	            </form>
+    				</div>
+
+    			</div>
+    			
+    			
+    			
+    		</div>
+			
+	</div>
+    	
+    </section>
+	 <div class="row">
+          <div class="col-md-12 text-center">
+
+            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						     <i class="icon-heart color-danger" aria-hidden="true"></i>  <a href="https://colorlib.com" target="_blank"></a>
+						  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						</p>
+          </div>
+        </div>
+
+  		
+<script src="{{url_for('static', filename='vendor/jquery/jquery-3.2.1.min.js')}}"></script>
+<script src="{{url_for('static', filename='vendor/bootstrap/js/popper.js')}}"></script>
+<script src="{{url_for('static', filename='vendor/bootstrap/js/bootstrap.min.js')}}"></script>
+<script src="{{url_for('static', filename='vendor/perfect-scrollbar/perfect-scrollbar.min.js')}}"></script>
+<script src="{{url_for('static', filename='js/main.js')}}"></script>
+
+
+
+<script src="{{url_for('static', filename='jsfood/jquery.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/jquery-migrate-3.0.1.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/popper.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/bootstrap.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/jquery.easing.1.3.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/jquery.waypoints.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/jquery.stellar.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/owl.carousel.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/jquery.magnific-popup.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/aos.js')}}"></script>
+
+
+ <script src="{{url_for('static', filename='jsfood/jquery.animateNumber.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/bootstrap-datepicker.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/scrollax.min.js')}}"></script>
+<script src="{{url_for('static', filename='jsfood/google-map.js')}}"></script>
+<script src="{{url_for('static', filename='https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false')}}"></script>
+<script src="{{url_for('static', filename='jsfood/main.js')}}"></script>
+  <script>
+		$(document).ready(function(){
+
+		var quantitiy=0;
+		   $('.quantity-right-plus').click(function(e){
+		        
+		        // Stop acting like a button
+		        e.preventDefault();
+		        // Get the field name
+		        var quantity = parseInt($('#quantity').val());
+		        
+		        // If is not undefined
+		            
+		            $('#quantity').val(quantity + 1);
+
+		          
+		            // Increment
+		        
+		    });
+
+		     $('.quantity-left-minus').click(function(e){
+		        // Stop acting like a button
+		        e.preventDefault();
+		        // Get the field name
+		        var quantity = parseInt($('#quantity').val());
+		        
+		        // If is not undefined
+		      
+		            // Increment
+		            if(quantity>0){
+		            $('#quantity').val(quantity - 1);
+		            }
+		    });
+		    
+		});
+	</script>
+    
+  </body>
+</html>

@@ -1,0 +1,405 @@
+Res_id,Res_name,Res_food,Res_address,Res_ratings,Res_votes,Res_reviews,Res_url
+1,Aradhna Restaurant,"Fast Food, Street Food","Rajinder Nagar, New Delhi",3.6,254,76,https://www.zomato.com/restaurant?tab=order&res_id=18449625
+2,Rolls Mania,"Rolls, Fast Food","Rajinder Nagar, New Delhi",4.2,283,170,https://www.zomato.com/restaurant?tab=order&res_id=18698061
+3,The Rolling Joint,"Rolls, Fast Food","Connaught Place, New Delhi",4.1,1337,773,https://www.zomato.com/restaurant?tab=order&res_id=307190
+4,The Grill Cafe,Fast Food,"Rajinder Nagar, New Delhi",3.7,556,417,https://www.zomato.com/restaurant?tab=order&res_id=18453448
+5,RollsKing,"Fast Food, Rolls","Connaught Place, New Delhi",3.8,100,55,https://www.zomato.com/restaurant?tab=order&res_id=18750755
+6,Rooh Burger Cafe,"Burger, Fast Food, Beverages","Connaught Place, New Delhi",4,932,646,https://www.zomato.com/restaurant?tab=order&res_id=18600858
+7,Domino's Pizza,"Pizza, Fast Food","Paharganj, New Delhi",3.8,548,266,https://www.zomato.com/restaurant?tab=order&res_id=308187
+8,SubKing,"Fast Food, Healthy Food","West Patel Nagar, New Delhi",3.6,17,13,https://www.zomato.com/restaurant?tab=order&res_id=19186797
+9,Thaath Baath Cafe,Fast Food,"Paharganj, New Delhi",3.8,112,40,https://www.zomato.com/restaurant?tab=order&res_id=18772042
+10,Burgrill,"Burger, Wraps, Sandwich, Salad, Healthy Food, Beverages, Fast Food, American","Rajinder Nagar, New Delhi",4,221,111,https://www.zomato.com/restaurant?tab=order&res_id=18761151
+11,Bistro 57,Fast Food,"Rajinder Nagar, New Delhi",3.6,41,19,https://www.zomato.com/restaurant?tab=order&res_id=18901985
+12,Chai Culture,Fast Food,"Rajendra Place, New Delhi",3.7,49,19,https://www.zomato.com/restaurant?tab=order&res_id=18710759
+13,The Big Bun,Fast Food,"Karol Bagh, New Delhi",3.6,46,22,https://www.zomato.com/restaurant?tab=order&res_id=19096640
+14,Hangout,Fast Food,"East Patel Nagar, New Delhi",3.7,101,51,https://www.zomato.com/restaurant?tab=order&res_id=304550
+15,Hashtag Foods,"Fast Food, Beverages","Rajinder Nagar, New Delhi",3.9,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19227542
+16,Health-ish Cafe,"Healthy Food, Fast Food","East Patel Nagar, New Delhi",3.5,24,18,https://www.zomato.com/restaurant?tab=order&res_id=18739089
+17,Thrill Bites And Cafe,Fast Food,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19232560
+18,New Art New Spices,Fast Food,"Karol Bagh, New Delhi",3.1,73,15,https://www.zomato.com/restaurant?tab=order&res_id=300590
+19,Snacky Packy,Fast Food,"Rajinder Nagar, New Delhi",3.4,14,5,https://www.zomato.com/restaurant?tab=order&res_id=18767065
+20,Fryeo,Fast Food,"Connaught Place, New Delhi",3.2,5,3,https://www.zomato.com/restaurant?tab=order&res_id=19173286
+21,Mojo Terrace Cafe,Fast Food,"Paharganj, New Delhi",3.4,14,5,https://www.zomato.com/restaurant?tab=order&res_id=18305802
+22,The Yellow Bite,"Fast Food, Burger, Sandwich, Wraps, Beverages","East Patel Nagar, New Delhi",3.2,6,5,https://www.zomato.com/restaurant?tab=order&res_id=19179262
+23,Meal In A Box,Fast Food,"Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19065508
+24,Hungry Beast,"Fast Food, Momos, Rolls","Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19240991
+25,PB's Rolls and Street Foods,Street Food,"Connaught Place, New Delhi",3.4,17,3,https://www.zomato.com/restaurant?tab=order&res_id=18821101
+26,Shankar Namkeen & Sweets Bhandar,"Mithai, Street Food","Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19182726
+27,Taco Bell,"Fast Food, Mexican, Wraps","Connaught Place, New Delhi",4,79,59,https://www.zomato.com/restaurant?tab=order&res_id=19131716
+28,Johny's Vada Pav,"Street Food, Maharashtrian","East Patel Nagar, New Delhi",3.8,220,134,https://www.zomato.com/restaurant?tab=order&res_id=18423112
+29,Imly,"Street Food, North Indian, Continental, Momos","Rajendra Place, New Delhi",4.1,3608,2531,https://www.zomato.com/restaurant?tab=order&res_id=18057792
+30,WOW! Momo,"Tibetan, Fast Food, Momos","Karol Bagh, New Delhi",3.8,199,109,https://www.zomato.com/restaurant?tab=order&res_id=18289258
+31,Xero Degrees,"Cafe, Fast Food","Connaught Place, New Delhi",4.5,1393,1017,https://www.zomato.com/restaurant?tab=order&res_id=18729557
+32,Pizza Hut,"Fast Food, Italian, Pizza","Janpath, New Delhi",3.9,446,266,https://www.zomato.com/restaurant?tab=order&res_id=261
+33,GoGourmet,"North Indian, Healthy Food, Mexican, Fast Food, Salad","Connaught Place, New Delhi",4,429,315,https://www.zomato.com/restaurant?tab=order&res_id=18247029
+34,Burger Singh - Big Punjabi Burgers,"Burger, Fast Food, Beverages, Desserts","Rajendra Place, New Delhi",3.9,45,45,https://www.zomato.com/restaurant?tab=order&res_id=19174144
+35,Prayagraj Sweets,"Mithai, Fast Food, Street Food, North Indian","Karol Bagh, New Delhi",3.4,17,11,https://www.zomato.com/restaurant?tab=order&res_id=19104594
+36,The Yellow Chef,"Chinese, Fast Food, Rolls, Momos","East Patel Nagar, New Delhi",3.9,489,335,https://www.zomato.com/restaurant?tab=order&res_id=311539
+37,Cremeborne,"Desserts, Ice Cream, Fast Food","Connaught Place, New Delhi",4.4,1102,828,https://www.zomato.com/restaurant?tab=order&res_id=18624257
+38,Mad Over Momos,"Chinese, Fast Food","Karol Bagh, New Delhi",3.4,10,7,https://www.zomato.com/restaurant?tab=order&res_id=19136722
+39,Sachdeva's: The Multi Cuisine Joint,"North Indian, Chinese, Fast Food","Barakhamba Road, New Delhi",3.6,209,55,https://www.zomato.com/restaurant?tab=order&res_id=7150
+40,Nirula's,"Fast Food, Ice Cream, Desserts","Connaught Place, New Delhi",4.2,146,95,https://www.zomato.com/restaurant?tab=order&res_id=18843927
+41,IC Corner,"Chinese, Momos, Fast Food","Connaught Place, New Delhi",3.8,168,80,https://www.zomato.com/restaurant?tab=order&res_id=18451582
+42,Kaarobaar,"Fast Food, Chinese, North Indian","Rajinder Nagar, New Delhi",3.9,95,50,https://www.zomato.com/restaurant?tab=order&res_id=19055485
+43,The Food Factory,"North Indian, Chinese, Italian, Continental, Israeli, Fast Food","Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19072453
+44,Nathu's Pastry Shop,"Bakery, Desserts, Fast Food","Bengali Market, Mandi House, New Delhi",3.8,232,140,https://www.zomato.com/restaurant?tab=order&res_id=8340
+45,Gopala,"Mithai, Street Food, Bakery","Khan Market, New Delhi",3.4,12,4,https://www.zomato.com/restaurant?tab=order&res_id=18697027
+46,Quenchers by Barista,"Beverages, Desserts, Fast Food","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19123738
+47,Maska,"North Indian, Fast Food","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19219476
+48,Voyage Cafe,"North Indian, Chinese, Fast Food","Paharganj, New Delhi",3.6,82,63,https://www.zomato.com/restaurant?tab=order&res_id=18228057
+49,Flavours,"North Indian, Chinese, South Indian, Fast Food","Paharganj, New Delhi",2.8,29,19,https://www.zomato.com/restaurant?tab=order&res_id=308614
+50,Punjabi Nation,"North Indian, Fast Food","Rajinder Nagar, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19057728
+51,Beenos,"Chinese, Fast Food, North Indian","Rajinder Nagar, New Delhi",3.9,29,24,https://www.zomato.com/restaurant?tab=order&res_id=19194677
+52,The Indian Grill Restaurant,"North Indian, Fast Food, Mughlai","Paharganj, New Delhi",2.7,21,13,https://www.zomato.com/restaurant?tab=order&res_id=18017258
+53,Baker's Factory,"Bakery, Fast Food, Chinese","East Patel Nagar, New Delhi",3.5,89,39,https://www.zomato.com/restaurant?tab=order&res_id=6585
+54,Omelettes A Multi Cuisine Restaurant,"Fast Food, North Indian, Chinese","Rajendra Place, New Delhi",3.6,300,151,https://www.zomato.com/restaurant?tab=order&res_id=995
+55,Madan Cafe & Restaurant,"North Indian, Chinese, Fast Food","Paharganj, New Delhi",2.9,83,36,https://www.zomato.com/restaurant?tab=order&res_id=302155
+56,The Artful Baker,"Bakery, Fast Food, Desserts","Khan Market, New Delhi",4,369,267,https://www.zomato.com/restaurant?tab=order&res_id=18082237
+57,Midnight Canteen,"Fast Food, North Indian","Rajinder Nagar, New Delhi",3.5,59,23,https://www.zomato.com/restaurant?tab=order&res_id=18580315
+58,Fiostel Cafe,"Fast Food, North Indian","Karol Bagh, New Delhi",3.4,42,20,https://www.zomato.com/restaurant?tab=order&res_id=18880570
+59,Bistro 55,"North Indian, Fast Food, Japanese, Israeli","Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19008143
+60,Fresh Food And Caterers,"North Indian, Fast Food","Karol Bagh, New Delhi",3.2,8,2,https://www.zomato.com/restaurant?tab=order&res_id=19055661
+61,Just Cakez,"Bakery, Fast Food","Rajinder Nagar, New Delhi",2.9,22,7,https://www.zomato.com/restaurant?tab=order&res_id=18034082
+62,Oye!! Shawarma,"Lebanese, Fast Food","Rajendra Place, New Delhi",3.3,12,2,https://www.zomato.com/restaurant?tab=order&res_id=18479008
+63,BAKE HMM By Slice of Italy,"Bakery, Desserts, Fast Food","Lodhi Colony, New Delhi",3.7,48,41,https://www.zomato.com/restaurant?tab=order&res_id=18658128
+64,Burgelicious by The Flashback,"Italian, Burger, Fast Food","Rajendra Place, New Delhi",3.9,92,60,https://www.zomato.com/restaurant?tab=order&res_id=18766017
+65,Amber,"North Indian, Chinese, Mughlai, Burger, Fast Food, Kebab","Connaught Place, New Delhi",3,268,157,https://www.zomato.com/restaurant?tab=order&res_id=53
+66,Spooky Sky,"Continental, Fast Food, North Indian, Mughlai","Rajinder Nagar, New Delhi",3.6,128,99,https://www.zomato.com/restaurant?tab=order&res_id=18427200
+67,Indian Spirits By 7 States,"Fast Food, North Indian, Chinese","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19175521
+68,New Frontier Namkeen House,"Bakery, Fast Food","Karol Bagh, New Delhi",3.2,9,0,https://www.zomato.com/restaurant?tab=order&res_id=18082205
+69,Flashback Midnight Hunger,"Italian, Chinese, Fast Food, Burger","Rajendra Place, New Delhi",3.8,0,149,https://www.zomato.com/restaurant?tab=order&res_id=18363093
+70,Kitchen With A Cause,"Fast Food, North Indian, Chinese","Karol Bagh, New Delhi",3.7,551,43,https://www.zomato.com/restaurant?tab=order&res_id=18636970
+71,Flashback Midnight Hunger,"Italian, Chinese, Fast Food, Burger","Rajendra Place, New Delhi",3.8,551,149,https://www.zomato.com/restaurant?tab=order&res_id=18363093
+72,Kitchen With A Cause,"Fast Food, North Indian, Chinese","Karol Bagh, New Delhi",3.7,117,43,https://www.zomato.com/restaurant?tab=order&res_id=18636970
+73,Kiwi Restro Bar,"North Indian, Mughlai, Chinese, Fast Food","Karol Bagh, New Delhi",2.8,8,2,https://www.zomato.com/restaurant?tab=order&res_id=300599
+74,Malted Burgers & More,"Fast Food, Beverages, Wraps, Italian, Burger","Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19170439
+75,Hoi Foods,"North Indian, Chinese, Fast Food","Paharganj, New Delhi",3.2,6,8,https://www.zomato.com/restaurant?tab=order&res_id=19165505
+76,Tafree Cafe & Terrace Bar,"North Indian, Chinese, Fast Food","Connaught Place, New Delhi",3.9,766,552,https://www.zomato.com/restaurant?tab=order&res_id=18431194
+77,Chhaon,"North Indian, Chinese, Fast Food","Rajendra Place, New Delhi",3.2,10,2,https://www.zomato.com/restaurant?tab=order&res_id=18672864
+78,JONNY BOYZ,"Fast Food, Chinese, North Indian","Karol Bagh, New Delhi",2.9,120,19,https://www.zomato.com/restaurant?tab=order&res_id=18572038
+79,Chef's Kitchen,"Fast Food, North Indian","Karol Bagh, New Delhi",3.5,38,14,https://www.zomato.com/restaurant?tab=order&res_id=18742285
+80,Castle 9,"North Indian, Continental, Chinese, Fast Food","Connaught Place, New Delhi",4,1847,1120,https://www.zomato.com/restaurant?tab=order&res_id=1127
+81,The Coffee Bean & Tea Leaf,"Cafe, Fast Food","Khan Market, New Delhi",3.9,459,292,https://www.zomato.com/restaurant?tab=order&res_id=307370
+82,The Dhaba Junction,"North Indian, Chinese, Fast Food","Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19253173
+83,Excuse Me Boss,"North Indian, European, Chinese, Fast Food","Connaught Place, New Delhi",4.2,1745,1204,https://www.zomato.com/restaurant?tab=order&res_id=307036
+84,Fujiya,"Chinese, Japanese, Seafood, Fast Food, Momos","Chanakyapuri, New Delhi",3.8,1096,541,https://www.zomato.com/restaurant?tab=order&res_id=50
+85,Bombay Toastee,"Fast Food, North Indian","Connaught Place, New Delhi",3.3,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19230589
+86,Infinite Cafe,"Cafe, Fast Food","Connaught Place, New Delhi",3.5,41,31,https://www.zomato.com/restaurant?tab=order&res_id=18893454
+87,La Bake,"Bakery, Fast Food","Rajinder Nagar, New Delhi",3.6,54,9,https://www.zomato.com/restaurant?tab=order&res_id=18858284
+88,The Drama Food,"North Indian, Fast Food","Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19181794
+89,The Capital Kitchen,"North Indian, Chinese, Fast Food","Rajendra Place, New Delhi",3.1,4,1,https://www.zomato.com/restaurant?tab=order&res_id=19187774
+90,Chakh Le Delhi,"North Indian, Chinese, Fast Food","Vasant Kunj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19242245
+91,Picazzo,"Pizza, Fast Food","Karol Bagh, New Delhi",4.4,113,113,https://www.zomato.com/restaurant?tab=order&res_id=19160294
+92,Capten Milkshakes,"Beverages, Fast Food","Chandni Chowk, New Delhi",3.8,64,28,https://www.zomato.com/restaurant?tab=order&res_id=18627837
+93,Jain Coffee House,Fast Food,"Chandni Chowk, New Delhi",3.9,308,158,https://www.zomato.com/restaurant?tab=order&res_id=303644
+94,Rolls Story,"Rolls, Fast Food, Beverages","Karol Bagh, New Delhi",3.6,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19245821
+95,Rolls Tiger,"Rolls, Fast Food","Karol Bagh, New Delhi",3.5,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19257746
+96,Food Art Factory,Fast Food,"Chandni Chowk, New Delhi",3.1,11,7,https://www.zomato.com/restaurant?tab=order&res_id=19177823
+97,Cha Bar,Cafe,"Connaught Place, New Delhi",4.1,5192,3362,https://www.zomato.com/restaurant?tab=order&res_id=302878
+98,Wagh Bakri Tea Lounge,Cafe,"Connaught Place, New Delhi",3.8,333,251,https://www.zomato.com/restaurant?tab=order&res_id=18244731
+99,Cafe CoffeeCo,Cafe,"Paharganj, New Delhi",3.3,50,23,https://www.zomato.com/restaurant?tab=order&res_id=18287392
+100,Guliyano Cafe,Cafe,"Karol Bagh, New Delhi",3.5,106,67,https://www.zomato.com/restaurant?tab=order&res_id=18598867
+101,Garage Cafe,"Cafe, Beverages","Anand Vihar, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19043217
+102,Chai Peeni Hai,"Tea, Fast Food","India Gate, New Delhi",3.7,28,24,https://www.zomato.com/restaurant?tab=order&res_id=18727421
+103,Chai Shots,"Tea, Beverages, Fast Food","Barakhamba Road, New Delhi",3.4,8,3,https://www.zomato.com/restaurant?tab=order&res_id=18903932
+104,Theobroma,"Bakery, Cafe","Connaught Place, New Delhi",4.3,837,459,https://www.zomato.com/restaurant?tab=order&res_id=18400755
+105,Cafe Delhi Heights,"Asian, Modern Indian, Continental, Cafe","Janpath, New Delhi",4.1,577,368,https://www.zomato.com/restaurant?tab=order&res_id=18579363
+106,Brioche DorÃÂ©e,"Cafe, Bakery, French","Connaught Place, New Delhi",4.2,407,246,https://www.zomato.com/restaurant?tab=order&res_id=18887258
+107,Hungry Birds Cafe,"Cafe, Chinese, Fast Food","Rajendra Place, New Delhi",3.6,58,41,https://www.zomato.com/restaurant?tab=order&res_id=19180782
+108,The Art House Bar n Cafe,"Cafe, Continental","Connaught Place, New Delhi",4.1,671,535,https://www.zomato.com/restaurant?tab=order&res_id=18863766
+109,Life Caffe,"Cafe, North Indian, Italian, Chinese","Connaught Place, New Delhi",3.7,581,378,https://www.zomato.com/restaurant?tab=order&res_id=9747
+110,Ustadi,"North Indian, Mughlai","Rajinder Nagar, New Delhi",4,102,61,https://www.zomato.com/restaurant?tab=order&res_id=18646727
+111,Indian & Mughlai King,"Mughlai, North Indian","East Patel Nagar, New Delhi",3.9,361,102,https://www.zomato.com/restaurant?tab=order&res_id=18515831
+112,Indian & Mughlai King,"North Indian, Mughlai","Karol Bagh, New Delhi",3.7,439,69,https://www.zomato.com/restaurant?tab=order&res_id=18441565
+113,The Masala Chapter,"North Indian, Mughlai, Kebab, Rolls","Uday Park, New Delhi",4,45,40,https://www.zomato.com/restaurant?tab=order&res_id=19130610
+114,Pehalwan Da Hotel,"Mughlai, North Indian","Paharganj, New Delhi",3.7,82,18,https://www.zomato.com/restaurant?tab=order&res_id=18218076
+115,Khurana Restaurant,"North Indian, Mughlai","Karol Bagh, New Delhi",3.7,359,172,https://www.zomato.com/restaurant?tab=order&res_id=3340
+116,Mughlai Junction,"North Indian, Mughlai","Connaught Place, New Delhi",4,641,440,https://www.zomato.com/restaurant?tab=order&res_id=307485
+117,Natraj Restaurant,"North Indian, Mughlai","Paharganj, New Delhi",3.5,36,27,https://www.zomato.com/restaurant?tab=order&res_id=310524
+118,Moti Mahal Delux Tandoori Trail,"North Indian, Mughlai","Civil Lines, New Delhi",3.5,69,25,https://www.zomato.com/restaurant?tab=order&res_id=18512277
+119,Heritage Zaika,"North Indian, Mughlai","Paharganj, New Delhi",3.2,272,88,https://www.zomato.com/restaurant?tab=order&res_id=18668583
+120,Simply Delicious,"North Indian, Mughlai","Karol Bagh, New Delhi",3.3,15,10,https://www.zomato.com/restaurant?tab=order&res_id=19145321
+121,Gulnar Bar Be Que,"North Indian, Mughlai","Karol Bagh, New Delhi",3.5,113,61,https://www.zomato.com/restaurant?tab=order&res_id=9459
+122,Indian Republic Canteen by Veda,North Indian,"Connaught Place, New Delhi",4.5,421,296,https://www.zomato.com/restaurant?tab=order&res_id=18718255
+123,Chacha Da Hotel,"North Indian, Mughlai","Paharganj, New Delhi",3,4,1,https://www.zomato.com/restaurant?tab=order&res_id=18273535
+124,Amritsari Kulcha King,North Indian,"Karol Bagh, New Delhi",3.8,73,24,https://www.zomato.com/restaurant?tab=order&res_id=18168127
+125,Amritsari Chur Chur Naan,North Indian,"Paharganj, New Delhi",3.6,439,62,https://www.zomato.com/restaurant?tab=order&res_id=300620
+126,Vrinda Vaishno Dhaba,North Indian,"Paharganj, New Delhi",3.8,85,31,https://www.zomato.com/restaurant?tab=order&res_id=18252250
+127,Dhaba Food,North Indian,"Connaught Place, New Delhi",4,146,57,https://www.zomato.com/restaurant?tab=order&res_id=18396407
+128,Standard Corner,North Indian,"Rajinder Nagar, New Delhi",3.9,198,74,https://www.zomato.com/restaurant?tab=order&res_id=7427
+129,Radhey Shyam Subhash Kumar Special Chole Bhature,North Indian,"Paharganj, New Delhi",4,340,111,https://www.zomato.com/restaurant?tab=order&res_id=311650
+130,Kashmir Sweet Shop,"Mithai, North Indian","Paharganj, New Delhi",3.9,240,89,https://www.zomato.com/restaurant?tab=order&res_id=300619
+131,Marathi Katta,"North Indian, Maharashtrian","Rajinder Nagar, New Delhi",3.6,202,39,https://www.zomato.com/restaurant?tab=order&res_id=18446480
+132,Gurdev Punjabi Restaurant,North Indian,"Paharganj, New Delhi",3.6,50,14,https://www.zomato.com/restaurant?tab=order&res_id=300639
+133,Multan Moth Bhandar,North Indian,"Paharganj, New Delhi",3.8,81,57,https://www.zomato.com/restaurant?tab=order&res_id=300613
+134,New Frontier Hotel,North Indian,"Karol Bagh, New Delhi",3.8,124,54,https://www.zomato.com/restaurant?tab=order&res_id=1924
+135,Tee Pee O Restaurant,North Indian,"Connaught Place, New Delhi",3.8,246,133,https://www.zomato.com/restaurant?tab=order&res_id=907
+136,Om Corner,North Indian,"Karol Bagh, New Delhi",4,1021,563,https://www.zomato.com/restaurant?tab=order&res_id=9923
+137,New Om Snacks,North Indian,"Karol Bagh, New Delhi",3.7,60,14,https://www.zomato.com/restaurant?tab=order&res_id=312503
+138,Chawla De Mashoor Chur Chur Naan,North Indian,"Paharganj, New Delhi",4,376,190,https://www.zomato.com/restaurant?tab=order&res_id=300609
+139,Rajender Kumar Chole Bhature Wala,North Indian,"Kamla Nagar, New Delhi",3.1,4,0,https://www.zomato.com/restaurant?tab=order&res_id=19067171
+140,Paharganj Ke Seth Ke Mashoor Chur Chur Naan,North Indian,"Paharganj, New Delhi",3.3,0,15,https://www.zomato.com/restaurant?tab=order&res_id=6358
+141,Oberoi Biryani,"Biryani, North Indian","Rajinder Nagar, New Delhi",3.3,54,123,https://www.zomato.com/restaurant?tab=order&res_id=306067
+142,ComBox,"North Indian, Biryani","Connaught Place, New Delhi",3.1,297,1,https://www.zomato.com/restaurant?tab=order&res_id=18790565
+143,Aggarwal Restaurant,North Indian,"Paharganj, New Delhi",3.3,6,11,https://www.zomato.com/restaurant?tab=order&res_id=300632
+144,Magic Pot,North Indian,"Paharganj, New Delhi",3.5,19,19,https://www.zomato.com/restaurant?tab=order&res_id=18662726
+145,Pappu Ka Dhaba,North Indian,"Rajinder Nagar, New Delhi",3.3,40,21,https://www.zomato.com/restaurant?tab=order&res_id=8688
+146,Mums Grace,North Indian,"Barakhamba Road, New Delhi",0,41,0,https://www.zomato.com/restaurant?tab=order&res_id=19228377
+147,Billa Five Star,North Indian,"Karol Bagh, New Delhi",3.2,0,3,https://www.zomato.com/restaurant?tab=order&res_id=18932431
+148,U Like,North Indian,"Paharganj, New Delhi",3.4,7,17,https://www.zomato.com/restaurant?tab=order&res_id=3118
+149,Fouji Dhaba,North Indian,"Paharganj, New Delhi",3.3,47,1,https://www.zomato.com/restaurant?tab=order&res_id=302176
+150,J P Chicken Corner,"North Indian, Kebab","Karol Bagh, New Delhi",3.3,11,37,https://www.zomato.com/restaurant?tab=order&res_id=311984
+151,Raj Restaurant,North Indian,"Paharganj, New Delhi",3.5,58,13,https://www.zomato.com/restaurant?tab=order&res_id=18545077
+152,Epic,North Indian,"Rajinder Nagar, New Delhi",3.3,18,3,https://www.zomato.com/restaurant?tab=order&res_id=18977144
+153,S.S. Tiffin Service Centre,North Indian,"Paharganj, New Delhi",3.3,9,2,https://www.zomato.com/restaurant?tab=order&res_id=18981692
+154,Capital Hotel,North Indian,"Paharganj, New Delhi",3.5,12,30,https://www.zomato.com/restaurant?tab=order&res_id=18273539
+155,Mashaallah Chicken Corner,North Indian,"Paharganj, New Delhi",2.8,43,3,https://www.zomato.com/restaurant?tab=order&res_id=18797889
+156,Al-Sameer,North Indian,"Paharganj, New Delhi",2.8,13,6,https://www.zomato.com/restaurant?tab=order&res_id=6283
+157,Brijwasi Restaurant,North Indian,"Paharganj, New Delhi",2.9,11,10,https://www.zomato.com/restaurant?tab=order&res_id=18354981
+158,Kick Back Corner,North Indian,"Connaught Place, New Delhi",2.7,14,18,https://www.zomato.com/restaurant?tab=order&res_id=18752867
+159,S P Food Corner,North Indian,"Karol Bagh, New Delhi",2.9,52,2,https://www.zomato.com/restaurant?tab=order&res_id=18725493
+160,Just2eat,North Indian,"Connaught Place, New Delhi",2.5,6,10,https://www.zomato.com/restaurant?tab=order&res_id=18540617
+161,Dhaba,North Indian,"Paharganj, New Delhi",0,13,0,https://www.zomato.com/restaurant?tab=order&res_id=19233425
+162,Just2eat,North Indian,"Connaught Place, New Delhi",2.5,13,10,https://www.zomato.com/restaurant?tab=order&res_id=18540617
+163,Dhaba,North Indian,"Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19233425
+164,Ahmad Chicken Corner,North Indian,"Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19011696
+165,The Paratha Factory,"North Indian, Beverages","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19137908
+166,Bahadur Dhaba,North Indian,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=18707045
+167,Sobti Dhaba,North Indian,"Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=18824338
+168,Dayal Da Dhaba,North Indian,"Gole Market, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19025828
+169,Amit Uncle's Food Court,North Indian,"West Patel Nagar, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19107699
+170,Guru Ji Snacks Corner,North Indian,"Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19114265
+171,Indian Platter,North Indian,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19155530
+172,Punjabi Taste Point,North Indian,"Uttam Nagar, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19146090
+173,AAA Kitchen Restaurant,North Indian,"Civil Lines, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19038263
+174,Mannu Janta Dhaba,North Indian,"Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19102597
+175,LazyChef,North Indian,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=18808158
+176,Miglani Dhaba,North Indian,"Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19088056
+177,Madhuban's Fast Food Corner,North Indian,"Rajendra Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=18921646
+178,Suvidha Restaurant,North Indian,"Paharganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=18858364
+179,Delhi 6 - Royal Cuisine Of The Walled City,Mughlai,"Daryaganj, New Delhi",4.1,395,309,https://www.zomato.com/restaurant?tab=order&res_id=304181
+180,Rajasthali,Rajasthani,"Connaught Place, New Delhi",4.1,437,283,https://www.zomato.com/restaurant?tab=order&res_id=18334420
+181,Navab's,Mughlai,"Karol Bagh, New Delhi",3.7,22,17,https://www.zomato.com/restaurant?tab=order&res_id=18579467
+182,Ravayat,Mughlai,"Connaught Place, New Delhi",3.4,34,16,https://www.zomato.com/restaurant?tab=order&res_id=18486841
+183,Shawarma King's,"Rolls, Fast Food","Karol Bagh, New Delhi",4,719,456,https://www.zomato.com/restaurant?tab=order&res_id=300594
+184,Aunty's Paranthe,"North Indian, Fast Food","Karol Bagh, New Delhi",3.8,54,14,https://www.zomato.com/restaurant?tab=order&res_id=18890404
+185,T'Wok - A Pan Asian Experience,"Chinese, Thai, Japanese, Sushi","Karol Bagh, New Delhi",4.5,157,107,https://www.zomato.com/restaurant?tab=order&res_id=19013890
+186,Chopsuey,"Asian, Chinese, Sushi, Thai","Karol Bagh, New Delhi",4.2,176,124,https://www.zomato.com/restaurant?tab=order&res_id=18755889
+187,Pandan Asian Eats,"Chinese, Asian, Thai, Vietnamese, Sushi, PokÃÂ©, Japanese, Malaysian","Greater Kailash 1 (GK1), New Delhi",4.3,825,550,https://www.zomato.com/restaurant?tab=order&res_id=18553404
+188,TukTuk - Asian on Wheels,"Asian, Thai, Malaysian, Chinese, Japanese","South Extension 2, New Delhi",4.5,504,405,https://www.zomato.com/restaurant?tab=order&res_id=18451269
+189,Number 7 - The Asian Story,"Asian, Japanese, Chinese","Greater Kailash 1 (GK1), New Delhi",4.3,242,109,https://www.zomato.com/restaurant?tab=order&res_id=18793005
+190,ThaiCrate,"Thai, Chinese","Defence Colony, New Delhi",4.2,367,138,https://www.zomato.com/restaurant?tab=order&res_id=18144465
+191,Pioneer's Flavours of China,Chinese,"Connaught Place, New Delhi",4.2,373,252,https://www.zomato.com/restaurant?tab=order&res_id=897
+192,Mamagoto,"Asian, Thai, Chinese, Salad","Khan Market, New Delhi",4.2,1892,984,https://www.zomato.com/restaurant?tab=order&res_id=2632
+193,Wai Yu Mun Ching,"Chinese, Thai","Rajendra Place, New Delhi",4,58,66,https://www.zomato.com/restaurant?tab=order&res_id=19169953
+194,Berco's,"Chinese, Thai, Asian","Connaught Place, New Delhi",4,4146,2280,https://www.zomato.com/restaurant?tab=order&res_id=55
+195,Spice Of India,"Rolls, Chinese","Paharganj, New Delhi",3.6,160,82,https://www.zomato.com/restaurant?tab=order&res_id=18287373
+196,Mandarin House,"Chinese, Thai","Karol Bagh, New Delhi",3.9,130,85,https://www.zomato.com/restaurant?tab=order&res_id=18721803
+197,China in Town,Chinese,"Karol Bagh, New Delhi",3.7,59,41,https://www.zomato.com/restaurant?tab=order&res_id=1912
+198,Side Wok,"Asian, Chinese, Japanese, Thai","Khan Market, New Delhi",4,811,393,https://www.zomato.com/restaurant?tab=order&res_id=305686
+199,WOW! Momo,"Chinese, Momos","Rajiv Chowk Metro Station, New Delhi",3.7,158,113,https://www.zomato.com/restaurant?tab=order&res_id=18552183
+200,The Chinese Corner,Chinese,"Karol Bagh, New Delhi",3.6,30,16,https://www.zomato.com/restaurant?tab=order&res_id=7512
+201,Tsui Wong,"Thai, Asian, Chinese","East Patel Nagar, New Delhi",3.9,285,170,https://www.zomato.com/restaurant?tab=order&res_id=2635
+202,One Degree East Cafe,"Chinese, Thai","Chanakyapuri, New Delhi",4,197,91,https://www.zomato.com/restaurant?tab=order&res_id=18769376
+203,Ichiban,"Chinese, Thai, Japanese","Pandara Road Market, New Delhi",4,1035,577,https://www.zomato.com/restaurant?tab=order&res_id=73
+204,Noni Chinese Fast Food,Chinese,"South Patel Nagar, New Delhi",3.5,38,11,https://www.zomato.com/restaurant?tab=order&res_id=18867529
+205,Royal Chinese Corner,Chinese,"East Patel Nagar, New Delhi",3.5,36,14,https://www.zomato.com/restaurant?tab=order&res_id=7375
+206,King's Chinese Point,Chinese,"Karol Bagh, New Delhi",3.4,58,16,https://www.zomato.com/restaurant?tab=order&res_id=9460
+207,Naveen's Corner,"Chinese, Rolls","Karol Bagh, New Delhi",3.3,21,1,https://www.zomato.com/restaurant?tab=order&res_id=18924876
+208,Forked,"Chinese, Momos","Karol Bagh, New Delhi",3.5,126,28,https://www.zomato.com/restaurant?tab=order&res_id=18216927
+209,Chinese Express,"Chinese, Momos","Paharganj, New Delhi",3.1,5,4,https://www.zomato.com/restaurant?tab=order&res_id=19173996
+210,The Hungerss,Chinese,"Barakhamba Road, New Delhi",2.7,24,10,https://www.zomato.com/restaurant?tab=order&res_id=18650252
+211,EXOTIC CAFE,"Chinese, Tibetan, Thai","Paharganj, New Delhi",2.9,16,2,https://www.zomato.com/restaurant?tab=order&res_id=18603663
+212,Chinese Kitchen,Chinese,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19181582
+213,Chow Maun,Chinese,"Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19243197
+214,Comboz,Chinese,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19162523
+215,KFC,"Burger, Fast Food","Connaught Place, New Delhi",4,1114,513,https://www.zomato.com/restaurant?tab=order&res_id=2195
+216,King Shawarma,"Street Food, Chinese, Momos, Burger, Sandwich, Lebanese","East Patel Nagar, New Delhi",4,669,454,https://www.zomato.com/restaurant?tab=order&res_id=18531150
+217,QD's Restaurant,"Chinese, North Indian, Fast Food, Momos","Karol Bagh, New Delhi",4.1,151,106,https://www.zomato.com/restaurant?tab=order&res_id=18900386
+218,Jain Chawal Wale,"North Indian, Chinese","Connaught Place, New Delhi",4,1503,931,https://www.zomato.com/restaurant?tab=order&res_id=1896
+219,Chinese King,"North Indian, Mughlai, Chinese, Momos","Karol Bagh, New Delhi",4,311,169,https://www.zomato.com/restaurant?tab=order&res_id=18124379
+220,Chowringhee,"North Indian, Chinese, Rolls, Biryani","Karol Bagh, New Delhi",3.1,560,406,https://www.zomato.com/restaurant?tab=order&res_id=309606
+221,Khana Khazana,"North Indian, Chinese","Karol Bagh, New Delhi",3.3,56,40,https://www.zomato.com/restaurant?tab=order&res_id=19056934
+222,Kill The Bill Express,"North Indian, Chinese, Continental","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19222279
+223,Wrap & Roll,"Rolls, Chinese, Fast Food","Karol Bagh, New Delhi",3.8,316,169,https://www.zomato.com/restaurant?tab=order&res_id=18198463
+224,Chili's Grill & Bar,"Mexican, American, Italian","Connaught Place, New Delhi",4.5,3375,2686,https://www.zomato.com/restaurant?tab=order&res_id=18537536
+225,Orient Heritage,"Chinese, Thai, Japanese, Asian, Sushi, PokÃÂ©, Malaysian, Burmese","Malviya Nagar, New Delhi",4.7,1152,906,https://www.zomato.com/restaurant?tab=order&res_id=18603777
+226,Guppy,"Japanese, Seafood, Sushi, PokÃÂ©","Lodhi Colony, New Delhi",4.3,1107,563,https://www.zomato.com/restaurant?tab=order&res_id=304931
+227,Odeon Social,"North Indian, Chinese, Biryani, American, Continental","Connaught Place, New Delhi",4.7,7290,5179,https://www.zomato.com/restaurant?tab=order&res_id=18246991
+228,Blue Water Grille,"Thai, Mughlai, Chinese, Seafood","Rajinder Nagar, New Delhi",4.3,429,161,https://www.zomato.com/restaurant?tab=order&res_id=18265722
+229,Lazeez Kebab & Curries,"North Indian, Mughlai, Chinese, Rolls","Rajinder Nagar, New Delhi",3.8,114,51,https://www.zomato.com/restaurant?tab=order&res_id=18895692
+230,Popular Fruit Juice,"Beverages, Juices","Rajinder Nagar, New Delhi",3.8,66,9,https://www.zomato.com/restaurant?tab=order&res_id=19003085
+231,Sinless Cafe,"Healthy Food, North Indian, Chinese, Biryani, Beverages, Juices","East Patel Nagar, New Delhi",3.4,17,7,https://www.zomato.com/restaurant?tab=order&res_id=19041956
+232,The Salad Story,"Salad, Healthy Food, Beverages","Khan Market, New Delhi",4.1,447,280,https://www.zomato.com/restaurant?tab=order&res_id=18631791
+233,Chaayos,"Cafe, Beverages, Tea, Fast Food, Desserts","Connaught Place, New Delhi",4.1,1262,979,https://www.zomato.com/restaurant?tab=order&res_id=18237315
+234,Wat-a-Burger!,"Burger, Fast Food, Beverages, Sandwich, Wraps","Connaught Place, New Delhi",4.3,119,109,https://www.zomato.com/restaurant?tab=order&res_id=19108596
+235,Burger Singh - Big Punjabi Burgers,"Burger, Fast Food, Beverages, Desserts","Khan Market, New Delhi",4,91,53,https://www.zomato.com/restaurant?tab=order&res_id=18808091
+236,Rooh Burger Cafe,"Burger, Fast Food, Beverages","Connaught Place, New Delhi",4,932,647,https://www.zomato.com/restaurant?tab=order&res_id=18600858
+237,Cafe Coffee Day,"Cafe, Beverages, Sandwich, Fast Food, Desserts","Rajinder Nagar, New Delhi",3.6,77,39,https://www.zomato.com/restaurant?tab=order&res_id=5527
+238,Shake Square,"Beverages, Fast Food, Ice Cream","Connaught Place, New Delhi",4,1596,887,https://www.zomato.com/restaurant?tab=order&res_id=5738
+239,My Recipes & Cafe,"Chinese, Continental, Beverages","Karol Bagh, New Delhi",3.6,89,34,https://www.zomato.com/restaurant?tab=order&res_id=18689262
+240,Barista,"Cafe, Fast Food, Desserts, Tea, Beverages, Coffee","East Patel Nagar, New Delhi",3.6,84,41,https://www.zomato.com/restaurant?tab=order&res_id=511
+241,High On Desserts,"Desserts, Beverages, Fast Food","Rajinder Nagar, New Delhi",3.7,21,16,https://www.zomato.com/restaurant?tab=order&res_id=19186281
+242,The Chai Story,"Beverages, Fast Food","Connaught Place, New Delhi",3.9,759,568,https://www.zomato.com/restaurant?tab=order&res_id=18445782
+243,Bistro 57,"Fast Food, Beverages","Connaught Place, New Delhi",3.9,78,54,https://www.zomato.com/restaurant?tab=order&res_id=18774309
+244,Nukkad King,"Fast Food, Burger, Sandwich, Wraps, Beverages","East Patel Nagar, New Delhi",3.6,39,21,https://www.zomato.com/restaurant?tab=order&res_id=18822584
+245,Boisson The Blend Company,Beverages,"Connaught Place, New Delhi",3.9,61,45,https://www.zomato.com/restaurant?tab=order&res_id=19009942
+246,Cinnabon,"Cafe, Beverages, Bakery","Connaught Place, New Delhi",3.7,127,52,https://www.zomato.com/restaurant?tab=order&res_id=18634133
+247,Burgrill,"Burger, Wraps, Sandwich, Salad, Healthy Food, Beverages, Fast Food, American","Rajinder Nagar, New Delhi",4,221,112,https://www.zomato.com/restaurant?tab=order&res_id=18761151
+248,Leo's Restaurant Lounge,"Continental, North Indian, Mughlai, Chinese, Beverages","Paharganj, New Delhi",3.7,127,35,https://www.zomato.com/restaurant?tab=order&res_id=18645293
+249,Cottage CafÃÂ© By Smoothie Valley,"Cafe, Healthy Food, Beverages","Janpath, New Delhi",3.9,502,363,https://www.zomato.com/restaurant?tab=order&res_id=309807
+250,Kings Kulfi,Ice Cream,"Rajinder Nagar, New Delhi",4,222,88,https://www.zomato.com/restaurant?tab=order&res_id=307700
+251,Nirula's Ice Cream,"Ice Cream, Beverages, Fast Food","Karol Bagh, New Delhi",3.2,9,4,https://www.zomato.com/restaurant?tab=order&res_id=19030894
+252,The Burger Club,"Burger, Fast Food, Beverages","Karol Bagh, New Delhi",4.3,2104,1225,https://www.zomato.com/restaurant?tab=order&res_id=18632829
+253,Sita Ram Diwan Chand,North Indian,"Paharganj, New Delhi",4.2,3283,1595,https://www.zomato.com/restaurant?tab=order&res_id=6075
+254,Burger King,"Burger, American","Connaught Place, New Delhi",4,3192,1957,https://www.zomato.com/restaurant?tab=order&res_id=310448
+255,Desi Mojo,"North Indian, South Indian, Chinese, Beverages, Continental","Paharganj, New Delhi",4.2,178,103,https://www.zomato.com/restaurant?tab=order&res_id=18848796
+256,Faasos,"North Indian, Fast Food, Biryani, Rolls, Wraps","Connaught Place, New Delhi",4,348,239,https://www.zomato.com/restaurant?tab=order&res_id=18412878
+257,Karachi Sweet Shop,"Mithai, Street Food, North Indian","Karol Bagh, New Delhi",3.7,212,116,https://www.zomato.com/restaurant?tab=order&res_id=300373
+258,Ghoomar Traditional Thali Restaurant,"Rajasthani, North Indian","Connaught Place, New Delhi",4.3,347,255,https://www.zomato.com/restaurant?tab=order&res_id=18996133
+259,Gulati,"North Indian, Mughlai, Kebab","Pandara Road Market, New Delhi",4.4,6282,2961,https://www.zomato.com/restaurant?tab=order&res_id=799
+260,McDonald's,"Burger, Fast Food","Janpath, New Delhi",4.1,331,214,https://www.zomato.com/restaurant?tab=order&res_id=182
+261,Baking Bad,"Pizza, Italian, Fast Food","Greater Kailash 1 (GK1), New Delhi",4.1,1426,612,https://www.zomato.com/restaurant?tab=order&res_id=311584
+262,Chaayos,"Cafe, Beverages, Tea, Fast Food, Desserts","Kashmiri Gate, New Delhi",3.9,218,163,https://www.zomato.com/restaurant?tab=order&res_id=18643795
+263,CJ's Fresh,"Healthy Food, Italian, Burger, Sandwich","Defence Colony, New Delhi",4.1,599,227,https://www.zomato.com/restaurant?tab=order&res_id=18639083
+264,Hira Sweets,"Mithai, North Indian, South Indian","Connaught Place, New Delhi",3.9,447,279,https://www.zomato.com/restaurant?tab=order&res_id=300658
+265,Rajdhani Thali Restaurant,"Gujarati, Rajasthani, North Indian","Connaught Place, New Delhi",3.8,1816,1034,https://www.zomato.com/restaurant?tab=order&res_id=1286
+266,Creme N Crisp,"Bakery, Fast Food, Desserts","Gole Market, New Delhi",3.9,340,176,https://www.zomato.com/restaurant?tab=order&res_id=309291
+267,Smoke House Deli,"European, Italian, American, Burger, Juices, Healthy Food, Salad","Connaught Place, New Delhi",4.4,1553,1089,https://www.zomato.com/restaurant?tab=order&res_id=18372699
+268,M Gopinath South Indian Cafe,South Indian,"Rajinder Nagar, New Delhi",3.7,39,12,https://www.zomato.com/restaurant?tab=order&res_id=18774815
+269,Southy,South Indian,"Connaught Place, New Delhi",3.9,126,88,https://www.zomato.com/restaurant?tab=order&res_id=18650056
+270,Naivedyam,South Indian,"East Patel Nagar, New Delhi",4,992,511,https://www.zomato.com/restaurant?tab=order&res_id=410
+271,Arya Bhavan,South Indian,"Karol Bagh, New Delhi",3.9,40,26,https://www.zomato.com/restaurant?tab=order&res_id=18741860
+272,South Indian Cafe,South Indian,"Rajinder Nagar, New Delhi",3.5,57,14,https://www.zomato.com/restaurant?tab=order&res_id=8667
+273,Noni Mess,South Indian,"Rajinder Nagar, New Delhi",3,5,3,https://www.zomato.com/restaurant?tab=order&res_id=19194236
+274,Friends South Indian,South Indian,"Rajinder Nagar, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19211480
+275,Bikanervala Angan,"Mithai, North Indian, South Indian, Chinese, Street Food","Karol Bagh, New Delhi",4,1046,368,https://www.zomato.com/restaurant?tab=order&res_id=1928
+276,Haldiram's,"Mithai, Street Food, North Indian, South Indian, Bakery, Chinese, Fast Food","Karol Bagh, New Delhi",4.1,371,100,https://www.zomato.com/restaurant?tab=order&res_id=18795743
+277,Friends Restaurant,North Indian,"Rajinder Nagar, New Delhi",3.8,384,153,https://www.zomato.com/restaurant?tab=order&res_id=7452
+278,Kaleva,"North Indian, South Indian, Chinese, Fast Food, Street Food, Mithai","Gole Market, New Delhi",3.9,436,190,https://www.zomato.com/restaurant?tab=order&res_id=1204
+279,Roshan Di Kulfi,"Street Food, North Indian, South Indian, Ice Cream, Mithai","Karol Bagh, New Delhi",4,1694,941,https://www.zomato.com/restaurant?tab=order&res_id=7536
+280,Thalis of Nation,"North Indian, Healthy Food, South Indian","East of Kailash, New Delhi",3.9,93,37,https://www.zomato.com/restaurant?tab=order&res_id=19038960
+281,Spice Market,"North Indian, Mughlai, Kerala","Greater Kailash 1 (GK1), New Delhi",4.2,101,76,https://www.zomato.com/restaurant?tab=order&res_id=19057968
+282,Chip Chop,"North Indian, Chinese, South Indian","Jangpura, New Delhi",3.7,88,34,https://www.zomato.com/restaurant?tab=order&res_id=18357535
+283,Bengali Sweets And Snacks,"North Indian, South Indian, Chinese, Mithai, Bakery","Bengali Market, Mandi House, New Delhi",3.6,127,86,https://www.zomato.com/restaurant?tab=order&res_id=6286
+284,Soda Bottle Opener Wala,"Parsi, North Indian, Iranian, Maharashtrian, Fast Food, Desserts, Beverages","Khan Market, New Delhi",4.2,2991,1789,https://www.zomato.com/restaurant?tab=order&res_id=309788
+285,Imly,"Street Food, North Indian, Continental, Momos","Rajendra Place, New Delhi",4.1,3608,2533,https://www.zomato.com/restaurant?tab=order&res_id=18057792
+286,Nathu's Sweets,"North Indian, Chinese, South Indian, Street Food, Pizza, Desserts, Mithai","Bengali Market, Mandi House, New Delhi",3.7,727,385,https://www.zomato.com/restaurant?tab=order&res_id=588
+287,Shudh Vegitarian Food Court,"Chinese, North Indian, South Indian, Fast Food","Karol Bagh, New Delhi",3.6,381,183,https://www.zomato.com/restaurant?tab=order&res_id=1618
+288,Kullhad Chai,"North Indian, South Indian, Street Food","Rajinder Nagar, New Delhi",4.4,91,68,https://www.zomato.com/restaurant?tab=order&res_id=18985130
+289,Southern Masala,"South Indian, North Indian, Chinese","Karol Bagh, New Delhi",4,88,65,https://www.zomato.com/restaurant?tab=order&res_id=18720129
+290,Shree Rathnam,"South Indian, Chinese","Civil Lines, New Delhi",3.5,41,24,https://www.zomato.com/restaurant?tab=order&res_id=18506121
+291,38 Barracks,"North Indian, Italian, Chinese, Continental","Connaught Place, New Delhi",4.8,3621,2483,https://www.zomato.com/restaurant?tab=order&res_id=18241537
+292,Bagundi,"South Indian, North Indian, Biryani, Andhra, Seafood","Connaught Place, New Delhi",4,707,422,https://www.zomato.com/restaurant?tab=order&res_id=18769584
+293,Moolchand's,"North Indian, South Indian, Street Food, Chinese","Karol Bagh, New Delhi",3.6,59,31,https://www.zomato.com/restaurant?tab=order&res_id=5507
+294,Sagar Ratna,"South Indian, North Indian, Chinese","Connaught Place, New Delhi",3.8,781,491,https://www.zomato.com/restaurant?tab=order&res_id=320
+295,Punjabi By Nature,"North Indian, Mughlai, Salad, Kebab","Connaught Place, New Delhi",4.3,3229,2014,https://www.zomato.com/restaurant?tab=order&res_id=306497
+296,Sri Balaji,"South Indian, North Indian","Rajinder Nagar, New Delhi",3.8,178,80,https://www.zomato.com/restaurant?tab=order&res_id=2407
+297,Triveni Terrace Cafe,"Healthy Food, North Indian, Kebab","Mandi House, New Delhi",4.2,1894,1180,https://www.zomato.com/restaurant?tab=order&res_id=3396
+298,The Masala Trail,"North Indian, South Indian, Street Food, Chinese","Janpath, New Delhi",3.8,1858,1342,https://www.zomato.com/restaurant?tab=order&res_id=18398618
+299,Shudh Annapurna,"North Indian, Chinese, South Indian","Karol Bagh, New Delhi",3.3,98,16,https://www.zomato.com/restaurant?tab=order&res_id=5578
+300,Bangla Sweet House,"Mithai, Street Food","Gole Market, New Delhi",4.1,403,232,https://www.zomato.com/restaurant?tab=order&res_id=6284
+301,Rustom's,"Parsi, Street Food, Beverages","ITO, New Delhi",4.5,1690,1001,https://www.zomato.com/restaurant?tab=order&res_id=310958
+302,Odeon Sweets,"Mithai, Street Food","Gole Market, New Delhi",4,269,167,https://www.zomato.com/restaurant?tab=order&res_id=18203181
+303,Kulcha Junction,Street Food,"Connaught Place, New Delhi",3.9,597,421,https://www.zomato.com/restaurant?tab=order&res_id=18337903
+304,Shri Bankey Bihari Samosa Wala,Street Food,"Paharganj, New Delhi",3.7,47,21,https://www.zomato.com/restaurant?tab=order&res_id=18272388
+305,Chotey Lal Halwai,Street Food,"Karol Bagh, New Delhi",3.7,54,23,https://www.zomato.com/restaurant?tab=order&res_id=302641
+306,Goli Vada Pav No. 1,Street Food,"Karol Bagh, New Delhi",3.6,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19252251
+307,Bangla Sweet n Spice,"Street Food, Mishti","Gole Market, New Delhi",3.5,80,42,https://www.zomato.com/restaurant?tab=order&res_id=311840
+308,Raj Sweets,"Mithai, Street Food","Karol Bagh, New Delhi",3.4,19,10,https://www.zomato.com/restaurant?tab=order&res_id=300350
+309,Shyam Ji Special Chole Bhature,Street Food,"Paharganj, New Delhi",3.1,5,0,https://www.zomato.com/restaurant?tab=order&res_id=18944602
+310,PB's Rolls and Street Foods,Street Food,"Connaught Place, New Delhi",3.4,0,3,https://www.zomato.com/restaurant?tab=order&res_id=18821101
+311,Bhushan Bhature Wala,Street Food,"Karol Bagh, New Delhi",3.4,17,6,https://www.zomato.com/restaurant?tab=order&res_id=18529348
+312,Shankar Namkeen & Sweets Bhandar,"Mithai, Street Food","Paharganj, New Delhi",0,13,0,https://www.zomato.com/restaurant?tab=order&res_id=19182726
+313,Thakurji Snacks,Street Food,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19256993
+314,Bikanervala Angan,"Mithai, North Indian, South Indian, Chinese, Street Food","Karol Bagh, New Delhi",4,0,368,https://www.zomato.com/restaurant?tab=order&res_id=1928
+315,Haldiram's,"Mithai, Street Food, North Indian, South Indian, Bakery, Chinese, Fast Food","Karol Bagh, New Delhi",4.1,1046,100,https://www.zomato.com/restaurant?tab=order&res_id=18795743
+316,King Shawarma,"Street Food, Chinese, Momos, Burger, Sandwich, Lebanese","East Patel Nagar, New Delhi",4,371,454,https://www.zomato.com/restaurant?tab=order&res_id=18531150
+317,Kaleva,"North Indian, South Indian, Chinese, Fast Food, Street Food, Mithai","Gole Market, New Delhi",3.9,669,190,https://www.zomato.com/restaurant?tab=order&res_id=1204
+318,Roshan Di Kulfi,"Street Food, North Indian, South Indian, Ice Cream, Mithai","Karol Bagh, New Delhi",4,436,941,https://www.zomato.com/restaurant?tab=order&res_id=7536
+319,Karachi Sweet Shop,"Mithai, Street Food, North Indian","Karol Bagh, New Delhi",3.7,1694,116,https://www.zomato.com/restaurant?tab=order&res_id=300373
+320,Imly,"Street Food, North Indian, Continental, Momos","Rajendra Place, New Delhi",4.1,212,2533,https://www.zomato.com/restaurant?tab=order&res_id=18057792
+321,Nathu's Sweets,"North Indian, Chinese, South Indian, Street Food, Pizza, Desserts, Mithai","Bengali Market, Mandi House, New Delhi",3.7,3608,385,https://www.zomato.com/restaurant?tab=order&res_id=588
+322,Johny's Vada Pav,"Street Food, Maharashtrian","East Patel Nagar, New Delhi",3.8,727,134,https://www.zomato.com/restaurant?tab=order&res_id=18423112
+323,Prayagraj Sweets,"Mithai, Fast Food, Street Food, North Indian","Karol Bagh, New Delhi",3.4,220,11,https://www.zomato.com/restaurant?tab=order&res_id=19104594
+324,Kullhad Chai,"North Indian, South Indian, Street Food","Rajinder Nagar, New Delhi",4.4,17,68,https://www.zomato.com/restaurant?tab=order&res_id=18985130
+325,Moolchand's,"North Indian, South Indian, Street Food, Chinese","Karol Bagh, New Delhi",3.6,91,31,https://www.zomato.com/restaurant?tab=order&res_id=5507
+326,Om Ji Om,"North Indian, Mithai, Street Food","Karol Bagh, New Delhi",3.7,59,52,https://www.zomato.com/restaurant?tab=order&res_id=7534
+327,The Masala Trail,"North Indian, South Indian, Street Food, Chinese","Janpath, New Delhi",3.8,233,1342,https://www.zomato.com/restaurant?tab=order&res_id=18398618
+328,Gopala,"Mithai, Street Food, Bakery","Khan Market, New Delhi",3.4,1858,4,https://www.zomato.com/restaurant?tab=order&res_id=18697027
+329,Mourya Sweets Chat Bhandar,"North Indian, Street Food, Mithai","Paharganj, New Delhi",3.3,15,8,https://www.zomato.com/restaurant?tab=order&res_id=300616
+330,Punikar's,"Street Food, Maharashtrian","Karol Bagh, New Delhi",3.5,16,6,https://www.zomato.com/restaurant?tab=order&res_id=19048234
+331,Annapurna Bhojnalaya,"North Indian, Street Food","Rajinder Nagar, New Delhi",3.1,5,1,https://www.zomato.com/restaurant?tab=order&res_id=19109886
+332,Chaurasia Fast Food,"North Indian, Street Food","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19090939
+333,Taste Factory,"Fast Food, Street Food, North Indian, Beverages","Karol Bagh, New Delhi",3.2,7,3,https://www.zomato.com/restaurant?tab=order&res_id=18744073
+334,Jung Bahadur Kachori Wala,Street Food,"Chandni Chowk, New Delhi",4.1,872,488,https://www.zomato.com/restaurant?tab=order&res_id=9166
+335,Shyam Sweets,"Mithai, Street Food","Chawri Bazar, New Delhi",4.2,520,317,https://www.zomato.com/restaurant?tab=order&res_id=307218
+336,Old Famous Jalebi Wala,"Mithai, Street Food","Chandni Chowk, New Delhi",4,1276,743,https://www.zomato.com/restaurant?tab=order&res_id=9165
+337,Ayush Chole Wala,Street Food,"Chandni Chowk, New Delhi",3.8,23,10,https://www.zomato.com/restaurant?tab=order&res_id=18561057
+338,Nand Di Hatti,Street Food,"Chandni Chowk, New Delhi",4,157,83,https://www.zomato.com/restaurant?tab=order&res_id=307577
+339,Meghraj & Sons,"Street Food, Mithai","Chandni Chowk, New Delhi",3.4,25,8,https://www.zomato.com/restaurant?tab=order&res_id=18333489
+340,Kulcha Junction,Street Food,"Rajinder Nagar, New Delhi",2.9,12,9,https://www.zomato.com/restaurant?tab=order&res_id=19187565
+341,Chhotey Lal Chat Shop,Street Food,"Daryaganj, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=18726242
+342,Vikram Sweets,"Mithai, Street Food","Chanakyapuri, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=18959007
+343,Bengali Sweet House,"North Indian, Street Food, South Indian, Chinese, Mithai","Bengali Market, Mandi House, New Delhi",3.8,346,215,https://www.zomato.com/restaurant?tab=order&res_id=18264634
+344,K C Caterers,"Street Food, North Indian, Desserts","Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19251768
+345,Kanwarji's,"Street Food, Chinese, North Indian, Mithai","Chandni Chowk, New Delhi",3.9,348,173,https://www.zomato.com/restaurant?tab=order&res_id=6704
+346,Kishan Caterers Rahul Chat Bhandar,"Street Food, North Indian","Chandni Chowk, New Delhi",3.7,68,23,https://www.zomato.com/restaurant?tab=order&res_id=9066
+347,Indish,"North Indian, Mughlai, Biryani, Kebab","Uday Park, New Delhi",4.5,458,371,https://www.zomato.com/restaurant?tab=order&res_id=18695058
+348,Behrouz Biryani,"Biryani, North Indian, Mughlai","Barakhamba Road, New Delhi",4.1,219,165,https://www.zomato.com/restaurant?tab=order&res_id=18365882
+349,Biryani By Kilo,"Biryani, Mughlai, Kebab, North Indian","Connaught Place, New Delhi",4.1,640,499,https://www.zomato.com/restaurant?tab=order&res_id=18658316
+350,Biryani Blues,"Biryani, Hyderabadi","Connaught Place, New Delhi",4,2199,1555,https://www.zomato.com/restaurant?tab=order&res_id=18216915
+351,Nazeer Foods,"Biryani, North Indian, Mughlai, Kebab, Rolls","Karol Bagh, New Delhi",3.7,307,167,https://www.zomato.com/restaurant?tab=order&res_id=18238241
+352,Bikkgane Biryani,"Biryani, North Indian, Andhra","Connaught Place, New Delhi",3.9,2034,1435,https://www.zomato.com/restaurant?tab=order&res_id=18219558
+353,Biryani Battuta,"Biryani, Kebab, North Indian, Hyderabadi","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19235487
+354,Deez Biryani Kebab Curry Roll,"Biryani, North Indian, Mughlai","Connaught Place, New Delhi",3.8,347,210,https://www.zomato.com/restaurant?tab=order&res_id=574
+355,Biryani Lovers,Biryani,"West Patel Nagar, New Delhi",3.9,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19245781
+356,Indian Heritage,"North Indian, Mughlai, Biryani","Malviya Nagar, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19086891
+357,Biryani Art,"Biryani, North Indian","Rajinder Nagar, New Delhi",3.9,96,64,https://www.zomato.com/restaurant?tab=order&res_id=18696906
+358,Zaika Chicken Biryani,Biryani,"Rajinder Nagar, New Delhi",3.4,29,4,https://www.zomato.com/restaurant?tab=order&res_id=18533337
+359,Kake Da Hotel,"North Indian, Mughlai, Biryani, Rolls","Rajinder Nagar, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19235692
+360,Oberoi Biryani,"Biryani, North Indian","Rajinder Nagar, New Delhi",3.3,297,123,https://www.zomato.com/restaurant?tab=order&res_id=306067
+361,Paradise Muradabadi Chicken Biryani Center - HALAL,Biryani,"Karol Bagh, New Delhi",3.5,148,107,https://www.zomato.com/restaurant?tab=order&res_id=18615322
+362,ComBox,"North Indian, Biryani","Connaught Place, New Delhi",3.1,6,1,https://www.zomato.com/restaurant?tab=order&res_id=18790565
+363,Irshad Hussain Dhaba,Biryani,"Paharganj, New Delhi",3.3,14,2,https://www.zomato.com/restaurant?tab=order&res_id=19009964
+364,Shama Chicken Corner,"Mughlai, Biryani","Paharganj, New Delhi",3.3,7,1,https://www.zomato.com/restaurant?tab=order&res_id=18641405
+365,The Biryani Life,"Biryani, North Indian","Connaught Place, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19183044
+366,Umdaah,"Biryani, North Indian","Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19170418
+367,Alam Muradabadi Chicken Biryani,Biryani,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19247679
+368,Sri Annapurana Restaurant,"South Indian, North Indian","Rajinder Nagar, New Delhi",3.5,518,44,https://www.zomato.com/restaurant?tab=order&res_id=18629595
+369,India Kitchen,"North Indian, Biryani, Continental, Kebab, Beverages","East Patel Nagar, New Delhi",4,2421,1913,https://www.zomato.com/restaurant?tab=order&res_id=18509708
+370,Masterchef Kitchen,"Chinese, Mughlai, North Indian, Fast Food","Karol Bagh, New Delhi",3.3,229,136,https://www.zomato.com/restaurant?tab=order&res_id=18657775
+371,Aradhna Restaurant,"Fast Food, Street Food","Rajinder Nagar, New Delhi",3.6,254,80,https://www.zomato.com/restaurant?tab=order&res_id=18449625
+372,Kababs N Roll,"Rolls, Chinese, Fast Food","Gole Market, New Delhi",3.9,599,91,https://www.zomato.com/restaurant?tab=order&res_id=311880
+373,Biryani Badshah,"Biryani, Andhra, Chinese, North Indian","Connaught Place, New Delhi",4.3,396,283,https://www.zomato.com/restaurant?tab=order&res_id=18978968
+374,Amma Mess,"South Indian, North Indian, Chettinad","Karol Bagh, New Delhi",3.9,214,72,https://www.zomato.com/restaurant?tab=order&res_id=7422
+375,Pink Box,"Bakery, Desserts","Connaught Place, New Delhi",4.2,196,115,https://www.zomato.com/restaurant?tab=order&res_id=18616351
+376,Brownie Point,"Bakery, Desserts","East Patel Nagar, New Delhi",4.2,285,138,https://www.zomato.com/restaurant?tab=order&res_id=18628366
+377,Sweet Truth,"Bakery, Desserts","Barakhamba Road, New Delhi",4,91,61,https://www.zomato.com/restaurant?tab=order&res_id=18551640
+378,Choko La,"Bakery, Desserts, Beverages","Khan Market, New Delhi",3.9,446,183,https://www.zomato.com/restaurant?tab=order&res_id=304989
+379,Flurys - The Park,"Bakery, Desserts","The Park, Connaught Place, New Delhi",3.6,50,34,https://www.zomato.com/restaurant?tab=order&res_id=306069
+380,Waffle Wallah,"Desserts, Ice Cream, Bakery, Beverages","Connaught Place, New Delhi",3.6,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19230586
+381,Ministry of Cakes,Bakery,"Paharganj, New Delhi",4.1,35,41,https://www.zomato.com/restaurant?tab=order&res_id=19149311
+382,Six Degree Cakes And Coffees,Bakery,"Safdarjung, New Delhi",4.1,333,249,https://www.zomato.com/restaurant?tab=order&res_id=18544051
+383,Cakes N Petals,"Bakery, Desserts","Safdarjung, New Delhi",2.8,57,35,https://www.zomato.com/restaurant?tab=order&res_id=18407733
+384,Dukes Patisserie & Boulangerie,Bakery,"Rajinder Nagar, New Delhi",4,738,455,https://www.zomato.com/restaurant?tab=order&res_id=7428
+385,OCD - Online Cake Delivery,Bakery,"India Gate, New Delhi",3.6,64,45,https://www.zomato.com/restaurant?tab=order&res_id=18559822
+386,Bake Club,Bakery,"East Patel Nagar, New Delhi",3.7,118,62,https://www.zomato.com/restaurant?tab=order&res_id=304176
+387,Narula Bakery,Bakery,"Paharganj, New Delhi",3.3,8,2,https://www.zomato.com/restaurant?tab=order&res_id=18987024
+388,Baketalk,Bakery,"East Patel Nagar, New Delhi",3.5,60,22,https://www.zomato.com/restaurant?tab=order&res_id=18610234
+389,Cakes & More,Bakery,"Paharganj, New Delhi",2.8,27,7,https://www.zomato.com/restaurant?tab=order&res_id=18408070
+390,Dunkin' Donuts,"Desserts, Burger, Cafe","Chanakyapuri, New Delhi",4.1,529,345,https://www.zomato.com/restaurant?tab=order&res_id=308772
+391,Havmor Ice Cream,"Desserts, Beverages, Ice Cream","Rajinder Nagar, New Delhi",4.1,220,124,https://www.zomato.com/restaurant?tab=order&res_id=18468651
+392,Giani,"Desserts, Beverages, Ice Cream","Connaught Place, New Delhi",3.9,195,136,https://www.zomato.com/restaurant?tab=order&res_id=18635104
+393,Waffle Fever,Desserts,"Rajendra Place, New Delhi",3.8,126,62,https://www.zomato.com/restaurant?tab=order&res_id=18614405
+394,Giani's,"Ice Cream, Desserts, Beverages","Civil Lines, New Delhi",3.6,37,13,https://www.zomato.com/restaurant?tab=order&res_id=18591212
+395,Baskin Robbins,"Ice Cream, Desserts, Beverages","Rajinder Nagar, New Delhi",3.7,73,23,https://www.zomato.com/restaurant?tab=order&res_id=693
+396,The Bombay Natural Kulfi,"Desserts, Ice Cream","Karol Bagh, New Delhi",3.7,45,21,https://www.zomato.com/restaurant?tab=order&res_id=18685792
+397,Indo Kulfi,"Ice Cream, Desserts","Karol Bagh, New Delhi",3.7,129,69,https://www.zomato.com/restaurant?tab=order&res_id=18421458
+398,Keventers - The Original Milkshake,"Beverages, Desserts, Ice Cream","Rajiv Chowk Metro Station, New Delhi",3.8,68,56,https://www.zomato.com/restaurant?tab=order&res_id=18552177
+399,Enchante Patisserie,"Desserts, Coffee, Beverages","Khan Market, New Delhi",3.9,79,50,https://www.zomato.com/restaurant?tab=order&res_id=18862332
+400,Mad About Desert,Desserts,"Karol Bagh, New Delhi",0,0,0,https://www.zomato.com/restaurant?tab=order&res_id=19243686
+401,POMP - Pizza On My Plate,"Pizza, Italian, Desserts","Greater Kailash 1 (GK1), New Delhi",4.8,1825,1300,https://www.zomato.com/restaurant?tab=order&res_id=18662565
+402,Chai Point,"Beverages, Tea, Fast Food","Connaught Place, New Delhi",4,918,679,https://www.zomato.com/restaurant?tab=order&res_id=18255150
+403,The Good Bowl,"Asian, Biryani, North Indian, Desserts","Connaught Place, New Delhi",3.8,88,73,https://www.zomato.com/restaurant?tab=order&res_id=18884588
+404,eat.fit,"Healthy Food, North Indian, Biryani, Continental, Beverages","Karol Bagh, New Delhi",3.6,163,60,https://www.zomato.com/restaurant?tab=order&res_id=19114660
